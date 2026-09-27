@@ -46,3 +46,7 @@ scratch/__pycache__/
 *.bin
 *.pt
 *.h5
+
+__MACOSX/
+.DS_Store
+._*
